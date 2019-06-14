@@ -1,4 +1,4 @@
-# ThinkData Works Technical Assessment
+# Technical Test
 
 ### Objective
 
